@@ -19,4 +19,13 @@ After having your virtual environment you can enter into it ...
 
 This will show a list of libreries you have and there version.
 
+### Start Project 
+Having done the steps before in your terminal you execute the following:
+`django-admin.py startproject name_of_project`
+
+Enter what aever directory has you manage.py
+
+
+
+
   
